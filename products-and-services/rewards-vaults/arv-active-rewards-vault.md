@@ -14,8 +14,6 @@ Finally, ARV holders can **boost** their rewards by maintaining a longer lock le
 
 ## Who is ARV for?
 
-***
-
 * Users interested in active participation within DAO governance.
 * Participants with longer time preferences - users looking for shorter horizons should consider Auxo Passive Rewards Vault (PRV).
 * Stakers looking to absolutely maximise rewards.

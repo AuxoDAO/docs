@@ -10,6 +10,7 @@
   * [Distribution](auxo-dao/auxo-tokenomics.md)
   * [Protocol Owned Liquidity](usdauxo/protocol-owned-liquidity.md)
 * [Security](security/README.md)
+  * [Risks](security/risks.md)
   * [Farming Risk Framework](auxo-dao/treasury-management/farming-risk-framework.md)
   * [Audits](development/audits.md)
 * [Rewards Vaults](products-and-services/rewards-vaults/README.md)

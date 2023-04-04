@@ -29,8 +29,8 @@ The Timelock implements the following parameters:
 **Timelock Delay:** 1 days\
 _Delay between vote passing and ability to execute through timelock controller._
 
-**Timelock Admin:**\
+**Timelock Admin:** 0x6458A23B020f489651f2777Bd849ddEd34DfCcd2\
 _Admin can circumvent gov delays on the timelock, useful in post-deploy operations._
 
-**Timelock Executor:**\
+**Timelock Executor:** Anyone `0x0000000000000000000000000000000000000000` \
 _Who can call `execute()` on the timelock controller_

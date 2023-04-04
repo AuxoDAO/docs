@@ -25,3 +25,9 @@ Auxo is designed in such a way that many of these risks are minimised and remove
 Auxo is a DAO that is focused on trust-minimised yield farming that generates real yield on assets without dilution and pays WETH rewards to stakers monthly.
 
 This is achieved by leveraging the hive mind of the DAO to employ a variety of different strategies on different chains to generate the highest possible yields for the DAO treasury. The yields that the DAO generates each month are then distributed completely to the Rewards Vaults.
+
+
+
+### **What is the role of the DAO?**
+
+AUXO DAO's governance is designed to ensure resilience and decentralization of the system. ARV holders play a variety of roles, including notarization and transparency, authorization and access control, and issuing liquidity events. The community's voting promotes transparency in strategy performance, setup, operation, and composition. ARV holders control the Treasury's authorization layer, allowing only authorized transactions to be executed by Treasury operators. ARV holders can add and remove Treasury Operators at any time, reducing operational risks and expanding governance capabilities.
