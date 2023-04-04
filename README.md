@@ -10,7 +10,7 @@ description: Useful links to our sites and social media channels
 
 :floppy\_disk: Check our codebase at [Github Link](https://github.com/AuxoDAO)
 
-📎 [deployed-smart-contracts.md](developers/deployed-smart-contracts.md "mention")
+📎 [deployed-smart-contracts.md](development/deployed-smart-contracts.md "mention")
 
 :moneybag: Get $AUXO: Uniswap Pool
 
