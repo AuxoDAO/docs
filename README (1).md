@@ -4,6 +4,9 @@ description: Auxo is a goddess who grants growth and prosperity to fields.
 
 # 📖 What it Auxo?
 
+<figure><img src=".gitbook/assets/AUXO.jpeg" alt=""><figcaption></figcaption></figure>
+
+\
 Auxo is a DeFi platform that offers trust-minimized farming, rewards in ETH, and non-dilutive tokenomics. With Auxo, you can farm on high-yield protocols multichain with confidence, earn rewards in ETH instead of tokens, and benefit from a token policy that puts existing holders first.
 
 ### Summary
