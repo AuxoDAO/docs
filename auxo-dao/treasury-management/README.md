@@ -2,7 +2,7 @@
 description: Trustless Active Treasury Management
 ---
 
-# Treasury Management
+# Active Treasury Management
 
 Insert the content of the article [https://www.notion.so/piedao/Trustless-Active-Treasury-Management-215db906a77642d0bb5d29146f31c186](https://www.notion.so/piedao/Trustless-Active-Treasury-Management-215db906a77642d0bb5d29146f31c186)
 
