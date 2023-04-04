@@ -8,7 +8,7 @@
   * [Multisig](governance/multisig.md)
 * [$AUXO](usdauxo/README.md)
   * [Tokenomics](auxo-dao/auxo-tokenomics.md)
-* [Page 1](page-1.md)
+* [Protocol Owned Liquidity](protocol-owned-liquidity.md)
 * [Security](security/README.md)
   * [Farming Risk Framework](auxo-dao/treasury-management/farming-risk-framework.md)
   * [Audits](development/audits.md)
