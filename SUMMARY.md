@@ -1,3 +1,17 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Auxo DAO](README.md)
+  * [Getting Started](auxo-dao/getting-started.md)
+  * [Governance](auxo-dao/governance.md)
+  * [Auxo Tokenomics](auxo-dao/auxo-tokenomics.md)
+  * [Treasury Management](auxo-dao/treasury-management/README.md)
+    * [Farming Risk Framework](auxo-dao/treasury-management/farming-risk-framework.md)
+* [Products and Services](products-and-services/README.md)
+  * [Rewards Vaults](products-and-services/rewards-vaults/README.md)
+    * [ARV (Active Rewards Vault)](products-and-services/rewards-vaults/arv-active-rewards-vault.md)
+    * [PRV (Passive Rewards Vault)](products-and-services/rewards-vaults/prv-passive-rewards-vault.md)
+    * [ARV vs PRV](products-and-services/rewards-vaults/arv-vs-prv.md)
+  * [Lending](products-and-services/lending.md)
+* [Development](development/README.md)
+  * [Deployed Smart Contracts](development/deployed-smart-contracts.md)
+  * [Audits](development/audits.md)
