@@ -17,13 +17,13 @@ description: Useful links to our sites and social media channels
 :speech\_balloon: Discuss at the Forum
 
 :judge: Govern the DAO: \
-&#x20;    :zap: Vote Proposals on Snapshot (off-chain)\
+&#x20;    :zap: Vote Proposals on Snapshot (off-chain) \
 &#x20;    󠁔󠁔🗳️ Vote Proposals on Tally (on-chain)
 
-:mirror:Read our Articles at Mirror
+:mirror:Read our Articles at [Mirror](https://mirror.xyz/auxo.eth)
 
 :speaking\_head: Join our community at Discord
 
 :bird: Follow us on Twitter
 
-:arrow\_forward: Subscribe to our Youtube channel
+:arrow\_forward: Subscribe to our [Youtube channel](https://www.youtube.com/@AuxoDAO)
