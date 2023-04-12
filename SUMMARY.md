@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [📖 What it Auxo?](<README (1).md>)
-  * [Active Treasury Management](auxo-dao/treasury-management/README.md)
+* [📖 What is Auxo?](what-is-auxo/README.md)
+  * [Active Treasury Management](what-is-auxo/active-treasury-management.md)
 * [Governance](auxo-dao/governance.md)
   * [On chain voting](governance/on-chain-voting.md)
   * [Multisig](governance/multisig.md)
