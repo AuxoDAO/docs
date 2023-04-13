@@ -14,7 +14,7 @@ description: Useful links to our sites and social media channels
 
 :moneybag: Get $AUXO: Uniswap Pool
 
-:speech\_balloon: Discuss at the Forum
+:speech\_balloon: Discuss at the [Forum](https://discord.gg/ZqaFd9p6bu)
 
 :judge: Govern the DAO: \
 &#x20;    :zap: Vote Proposals on Snapshot (off-chain) \
@@ -22,7 +22,7 @@ description: Useful links to our sites and social media channels
 
 :mirror:Read our Articles at [Mirror](https://mirror.xyz/auxo.eth)
 
-:speaking\_head: Join our community at Discord
+:speaking\_head: Join our community at [Discord](https://discord.gg/x3kmf4bpJc)
 
 :bird: Follow us on Twitter
 
