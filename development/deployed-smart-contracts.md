@@ -23,3 +23,11 @@ description: This page details the main smart contract addresses for the Auxo Pr
 | ClaimHelper             | 0x2cd92e3a127A476b14451a62A1BFF16f24A3aedd | Utility contract for claiming rewards across ARV and PRV |
 
 \*_This contract is upgradeable, the address provided points to the Proxy contract. The current implementation can be fetched from the proxy._&#x20;
+
+## Migration Contracts
+
+_Temporary contracts used in the Auxo migration_
+
+|          |                                            |                          |
+| -------- | ------------------------------------------ | ------------------------ |
+| Upgrador | 0x02f4573F7b332fa73E219759f4E06b3Ed10A0ae1 | Auxo Bridge from veDOUGH |
