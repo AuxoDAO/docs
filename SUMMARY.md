@@ -19,3 +19,4 @@
   * [ARV vs PRV](products-and-services/rewards-vaults/arv-vs-prv.md)
 * [💻 Developers](development/README.md)
   * [Deployed Smart Contracts](development/deployed-smart-contracts.md)
+  * [Subgraphs](developers/subgraphs.md)
