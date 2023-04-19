@@ -1,6 +1,6 @@
 # $AUXO
 
-$AUXO is an ERC-20 Token deployed on the Ethereum Netword that represents share of the Auxo DAO treasury.
+$AUXO is an ERC-20 Token deployed on the Ethereum Network that represents share of the Auxo DAO treasury.
 
 The AUXO token has a strictly controlled policy of expansion, it is designed to be non-dilutive versus the net asset value (NAV) of the treasury and **there is no mechanism of inflation.**
 

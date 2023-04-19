@@ -56,7 +56,7 @@ As a staker, you should be aware of some of the different reward scenarios, and 
 
 _In this example, we have more ARV holders than PRV._
 
-Lets say 1000 WETH is distributed to stakers:
+Let's say 1000 WETH is distributed to stakers:
 
 * There are 1000 ARV tokens and 200 PRV tokens across all stakers.
 * All holders are eligible for max rewards:

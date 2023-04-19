@@ -17,8 +17,8 @@ description: Useful links to our sites and social media channels
 :speech\_balloon: Discuss at the [Forum](https://discord.gg/ZqaFd9p6bu)
 
 :judge: Govern the DAO: \
-&#x20;    :zap: Vote Proposals on Snapshot (off-chain) \
-&#x20;    󠁔󠁔🗳️ Vote Proposals on Tally (on-chain)
+&#x20;    :zap: Vote Proposals on [Snapshot ](https://snapshot.org/#/auxo.eth)(off-chain) \
+&#x20;    󠁔󠁔🗳️ Vote Proposals on [Tally ](https://www.tally.xyz/gov/auxo-dao)(on-chain)
 
 :mirror:Read our Articles at [Mirror](https://mirror.xyz/auxo.eth)
 
