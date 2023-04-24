@@ -1,5 +1,5 @@
 ---
-description: Rewards vaults comparison
+description: This page compares the ARV and PRV Vaults for the AUXO protocol
 ---
 
 # ARV vs PRV
