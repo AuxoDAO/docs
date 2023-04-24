@@ -8,11 +8,9 @@ description: Useful links to our sites and social media channels
 
 :blue\_book: Read our documentation at [docs.auxo.fi](https://docs.auxo.fi/)
 
-:floppy\_disk: Check our codebase at [Github Link](https://github.com/AuxoDAO)
+:floppy\_disk: Check our codebase on [Github](https://github.com/AuxoDAO)
 
 📎 [deployed-smart-contracts.md](development/deployed-smart-contracts.md "mention")
-
-:moneybag: Get $AUXO: Uniswap Pool
 
 :speech\_balloon: Discuss at the [Forum](https://discord.gg/ZqaFd9p6bu)
 
@@ -27,3 +25,5 @@ description: Useful links to our sites and social media channels
 :bird: Follow us on Twitter
 
 :arrow\_forward: Subscribe to our [Youtube channel](https://www.youtube.com/@AuxoDAO)
+
+:moneybag: _Get $AUXO: Uniswap Pool (coming soon)_
