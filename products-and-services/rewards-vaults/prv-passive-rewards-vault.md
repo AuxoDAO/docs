@@ -86,4 +86,8 @@ The system described above implies that shall there be little demand for AUXO (a
 
 PRV is a fully backed future claim on AUXO which earns rewards. PRV holders bet that AUXO price will be trading at healthy levels and get rewarded for stabilizing the market when it is trading at discount to NAV by keeping AUXO away from circulation.
 
+## Converting to ARV
+
+PRV cannot be directly converted to ARV. Users wishing to migrate should use their PRV to acquire AUXO and stake AUXO for ARV (more details are on the [arv-active-rewards-vault.md](arv-active-rewards-vault.md "mention") page). Users can unwrap PRV for AUXO (subject to withdrawal limits), or exchange PRV using 3rd parties (if available).
+
 [^1]: 
