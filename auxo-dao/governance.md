@@ -15,22 +15,21 @@ The core things subject to governance are as follows:
 3. Auxo Treasury
 4. Notarization of off-chain information
 
-
-
 ## How does it work
 
-Auxo uses off-chain voting to perform temperature-checks and on-chain voting to administer the protocol\
+Auxo uses _off-chain_ voting to perform "temperature-checks" and _on-chain_ voting to administer the protocol.\
 \
-Temperature-checks votes are done in the Snapshot page. Such votes have the only purpose to understand the sentiment of a specific subject, they are non-binding.
+Temperature-checks are votes are done offchain, using services like Snapshot. Such votes have a single purpose: to understand the sentiment of a specific subject, they are non-binding.
 
 \
-[On-chain Voting](../governance/on-chain-voting.md) is using to execute changes in the protocol, ARV holders are the only one able to partecipate to on-chain governance. Holders of ARV are required to delegate their voting power in order to vote, it is strongly suggested to self-delegate in order to partecipate to the rewards distribution. \
-\
+[On-chain Voting](../governance/on-chain-voting.md) is using to execute changes in the protocol, ARV holders are the only one able to participate in on-chain governance.&#x20;
+
+{% hint style="info" %}
+Holders of ARV are required to delegate their voting power in order to vote, it is strongly suggested to self-delegate in order to participate to the rewards distribution.&#x20;
+{% endhint %}
+
 Voting on-chain can be done directly via the smart contracts or with the help of one of the many UIs supporting the Governor Bravo system, sush as Tally.
 
 {% hint style="info" %}
 The DAO proposals will be voted either in Snapshot or in Tally based on their nature (off-chain or on-chain)
 {% endhint %}
-
-
-

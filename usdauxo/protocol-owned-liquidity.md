@@ -22,7 +22,3 @@ Where `ub_factor` and `lb_factor` are selected by treasury operators and define 
 ![](https://i.imgur.com/bIthtJF.png)
 
 Additionally, the Treasury will deploy additional liquidity in a number of sub-ranges that are intended to work as support and resistance to the price in order to support convergence towards healthy price action.
-
-\
- <a href="#last-vedough-distribution" id="last-vedough-distribution"></a>
--------------------------------------------------------------------------

@@ -10,9 +10,9 @@ This section is under construction
 
 ### Useful Info
 
-| Item                     | Link/Address |
-| ------------------------ | ------------ |
-| DAO Treasury Address     |              |
-| Treasury Monthly Reports |              |
-| Operations Multi-Sig     |              |
-| Treasury Operators       |              |
+| Item                     | Link/Address                                       |
+| ------------------------ | -------------------------------------------------- |
+| DAO Treasury Address     | [multisig.md](../governance/multisig.md "mention") |
+| Treasury Monthly Reports |                                                    |
+| Operations Multi-Sig     | [multisig.md](../governance/multisig.md "mention") |
+| Treasury Operators       |                                                    |
