@@ -22,7 +22,7 @@ description: Useful links to our sites and social media channels
 
 :speaking\_head: Join our community at [Discord](https://discord.gg/x3kmf4bpJc)
 
-:bird: Follow us on Twitter
+:bird: Follow us on [Twitter](https://twitter.com/AuxoDAO)
 
 :arrow\_forward: Subscribe to our [Youtube channel](https://www.youtube.com/@AuxoDAO)
 
