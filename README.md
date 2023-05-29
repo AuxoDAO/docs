@@ -26,4 +26,4 @@ description: Useful links to our sites and social media channels
 
 :arrow\_forward: Subscribe to our [Youtube channel](https://www.youtube.com/@AuxoDAO)
 
-:moneybag: _Get $AUXO: Uniswap Pool (coming soon)_
+:moneybag: Get $AUXO at [Uniswap](https://app.uniswap.org/#/tokens/ethereum/0xff030228a046f640143dab19be00009606c89b1d)
