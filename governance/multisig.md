@@ -2,7 +2,7 @@
 description: This page details the Multisig Addresses for Auxo
 ---
 
-# Multisig
+# 🔓 Multisig
 
 | Name       | Address                                    |
 | ---------- | ------------------------------------------ |

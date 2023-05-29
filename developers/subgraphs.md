@@ -2,7 +2,7 @@
 description: Links to deployed Auxo Subgraphs
 ---
 
-# Subgraphs
+# 📈 Subgraphs
 
 _**Note:** the below are hosted service endpoints deployed under a personal graph account. Expect these to change._
 

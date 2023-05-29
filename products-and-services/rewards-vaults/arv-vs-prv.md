@@ -20,16 +20,7 @@ description: This page compares the ARV and PRV Vaults for the AUXO protocol
 
 ## Table of comparison
 
-| -              | ARV                                                               | PRV                                                         |
-| -------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
-| Rewards        | 70% Total                                                         | 30% Total                                                   |
-| Boosting       | Required to maintain max rewards                                  | Not required                                                |
-| Governance     | Mandatory Participation                                           | Cannot Vote                                                 |
-| Transfer       | Non transferable                                                  | Transferable                                                |
-| Lock           | 6 - 36 months                                                     | Based on NAV/Withdrawal Queue                               |
-| Redemption     | Right to burn at lock expiry and redeem from the redemption pool. | Based on NAV/Withdrawal Queue                               |
-| Withdrawal Fee | NO                                                                | 1%                                                          |
-| Exit           | Wait for unlock or migrate to PRV with a 20% penalty              | Redeem for Auxo when available or sell in secondary markets |
+<table><thead><tr><th width="166">-</th><th width="294.3333333333333">ARV</th><th>PRV</th></tr></thead><tbody><tr><td>Rewards</td><td>70% Total</td><td>30% Total</td></tr><tr><td>Boosting</td><td>Required to maintain max rewards</td><td>Not required</td></tr><tr><td>Governance</td><td>Mandatory Participation</td><td>Cannot Vote</td></tr><tr><td>Transfer</td><td>Non transferable</td><td>Transferable</td></tr><tr><td>Lock</td><td>6 - 36 months</td><td>Based on NAV/Withdrawal Queue</td></tr><tr><td>Redemption</td><td>Right to burn at lock expiry and redeem from the redemption pool.</td><td>Based on NAV/Withdrawal Queue</td></tr><tr><td>Withdrawal Fee</td><td>NO</td><td>1%</td></tr><tr><td>Exit</td><td>Wait for unlock or migrate to PRV with a 20% penalty</td><td>Redeem for Auxo when available or sell in secondary markets</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Note that, in addition to the time required to participate in ARV, there will be additional gas fees required to maintain a stake and vote. Users concerned about gas fees should consider PRV instead.
@@ -65,10 +56,7 @@ Let's say 1000 WETH is distributed to stakers:
 
 #### **Rewards Breakdown**
 
-| Token | Total Rewards | Supply | Payout/token     |
-| ----- | ------------- | ------ | ---------------- |
-| ARV   | 700           | 1000   | 700 / 1000 = 0.7 |
-| PRV   | 300           | 200    | 300 / 200 = 1.5  |
+<table><thead><tr><th width="134">Token</th><th width="155">Total Rewards</th><th width="112">Supply</th><th>Payout/token</th></tr></thead><tbody><tr><td>ARV</td><td>700</td><td>1000</td><td>700 / 1000 = 0.7</td></tr><tr><td>PRV</td><td>300</td><td>200</td><td>300 / 200 = 1.5</td></tr></tbody></table>
 
 In this case it may be better to stake into PRV until such time as positions favor ARV. Existing ARV stakers may wish to take advantage of the “Early Termination” mechanic from ARV → PRV.
 
@@ -87,10 +75,7 @@ Same setup as case 1: 1000 WETH, 1000 ARV, 200 PRV
 
 #### **Rewards Breakdown**
 
-| Token | Total Rewards | Supply | Active Supply | Payout/token     |
-| ----- | ------------- | ------ | ------------- | ---------------- |
-| ARV   | 700           | 1000   | 400           | 700 / 400 = 1.75 |
-| PRV   | 300           | 200    | 200           | 300 / 200 = 1.5  |
+<table><thead><tr><th width="111">Token</th><th width="148">Total Rewards</th><th width="102">Supply</th><th width="149">Active Supply</th><th>Payout/token</th></tr></thead><tbody><tr><td>ARV</td><td>700</td><td>1000</td><td>400</td><td>700 / 400 = 1.75</td></tr><tr><td>PRV</td><td>300</td><td>200</td><td>200</td><td>300 / 200 = 1.5</td></tr></tbody></table>
 
 In this case, ARV for active stakers will be yielding more rewards per token. If as a user you are committed to voting and a long-term commitment, your rewards would likely be maximized by staking in ARV.
 

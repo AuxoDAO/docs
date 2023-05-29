@@ -7,7 +7,7 @@
   * [On chain voting](governance/on-chain-voting.md)
   * [🔓 Multisig](governance/multisig.md)
 * [$AUXO](usdauxo/README.md)
-  * [Distribution](auxo-dao/auxo-tokenomics.md)
+  * [$AUXO Token Distribution](usdauxo/usdauxo-token-distribution.md)
   * [Protocol Owned Liquidity](usdauxo/protocol-owned-liquidity.md)
 * [Security](security/README.md)
   * [Risks](security/risks.md)
