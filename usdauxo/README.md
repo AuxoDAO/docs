@@ -4,7 +4,7 @@ $AUXO is an ERC-20 Token deployed on the Ethereum Network that represents shares
 
 The AUXO token has a strictly controlled policy of expansion, it is designed to be non-dilutive versus the net asset value (NAV) of the treasury and **there is no mechanism of inflation.**
 
-The AUXO token is fully distributed to it’s token holders, aside from 20% of supplu held by the DAO as protocol-owned-liquidity used in market making.
+The AUXO token is fully distributed to it’s token holders, aside from 20% of supply held by the DAO as protocol-owned-liquidity used in market making.
 
 ### Net Asset Value
 
