@@ -52,7 +52,7 @@ A staking epoch lasts for a full calendar month and begins on at the start of sa
 
 
 
-## Withdrawal mechanics
+## Redemption mechanics
 
 The amount of PRV that can be redeemed for AUXO each epoch _(redemption availability)_ will vary based on how the price of AUXO trades compared to the treasury net asset value (NAV). As NAV is considered to be the fair market value for AUXO, the redemption mechanism was designed to help the price stabilise around the NAV _(denominated in ETH)_.
 

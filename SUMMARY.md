@@ -20,6 +20,7 @@
   * [ARV (Active Rewards Vault)](products-and-services/rewards-vaults/arv-active-rewards-vault.md)
   * [PRV (Passive Rewards Vault)](rewards-vaults/prv-passive-rewards-vault/README.md)
     * [Staking & Unstaking PRV](rewards-vaults/prv-passive-rewards-vault/staking-and-unstaking-prv.md)
+    * [Redeeming PRV](rewards-vaults/prv-passive-rewards-vault/redeeming-prv.md)
   * [ARV vs PRV](products-and-services/rewards-vaults/arv-vs-prv.md)
 * [💻 Developers](development/README.md)
   * [📄 Deployed Smart Contracts](development/deployed-smart-contracts.md)
