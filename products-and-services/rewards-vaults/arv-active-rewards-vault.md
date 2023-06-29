@@ -109,7 +109,7 @@ Rewards will be distributed in WETH and will be claimable via a rewards contract
 
 PRV stands for The Passive Rewards Vault. ARV holders can, at any point, choose to convert their ARV to PRV via the _**Early Termination**_ mechanism.
 
-PRV is redeemable for Auxo, but subject to **redemption restrictions** based on the value of Auxo versus NAV (see the [prv-passive-rewards-vault.md](prv-passive-rewards-vault.md "mention") page for full details), on the other hand, PRV is **transferrable** and, as such, may offer other opportunities for exit.&#x20;
+PRV is redeemable for Auxo, but subject to **redemption restrictions** based on the value of Auxo versus NAV (see the [prv-passive-rewards-vault](../../rewards-vaults/prv-passive-rewards-vault/ "mention") page for full details), on the other hand, PRV is **transferrable** and, as such, may offer other opportunities for exit.&#x20;
 
 **Importantly:** converting from ARV to PRV carries an additional, one-time, termination penalty of 20% of the staked AUXO, this means:
 

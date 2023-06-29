@@ -20,7 +20,7 @@ Each vault will distribute WETH, and the amount is given by different factors as
 >
 > Is a non-transferable asset that yields monthly rewards for governing the DAO. It receives 70% of total rewards, can be redeemed for AUXO after an unlock date, and has the option to exit to PRV by paying a 20% early lock termination fee. Rewards are distributed on a monthly basis to active holders (who voted during the previous month). The amount will be subject to a level system that boosts the rewards of those with longer expiration dates — levels decay on a monthly basis, and should be boosted periodically to maximize the rewards received.
 
-> [prv-passive-rewards-vault.md](prv-passive-rewards-vault.md "mention")
+> [prv-passive-rewards-vault](../../rewards-vaults/prv-passive-rewards-vault/ "mention")
 >
 > Is a transferable asset that yields monthly rewards while being free from governance obligations. PRV requires users to be staked for an entire epoch to qualify for distribution. 30% of the Treasury Farming will be distributed monthly as rewards to all qualifying PRV. The ARV→PRV conversion is irreversible, but PRV can be withdrawn for AUXO (subject to budget availability and a fee).
 

@@ -14,7 +14,7 @@ PRV implements a `delayed withdrawal mechanism` to AUXO, PRV holders can burn th
 * Participants who want the optionality of being able to exit their position at any time.
 * Users who are concerned about minimising both the gas expenditures and effort required to maintain a fully maximised rewards position.
 
-## Rewards in PRV Comment <a href="#rewards-in-prv" id="rewards-in-prv"></a>
+## Rewards in PRV <a href="#rewards-in-prv" id="rewards-in-prv"></a>
 
 PRV receives 30% of the total monthy distribution of WETH rewards which are distributed via the PRV Staking Contract.
 
@@ -88,6 +88,6 @@ PRV is a fully backed future claim on AUXO which earns rewards. PRV holders bet 
 
 ## Converting to ARV
 
-PRV cannot be directly converted to ARV. Users wishing to migrate should use their PRV to acquire AUXO and stake AUXO for ARV (more details are on the [arv-active-rewards-vault.md](arv-active-rewards-vault.md "mention") page). Users can unwrap PRV for AUXO (subject to withdrawal limits), or exchange PRV using 3rd parties (if available).
+PRV cannot be directly converted to ARV. Users wishing to migrate should use their PRV to acquire AUXO and stake AUXO for ARV (more details are on the [arv-active-rewards-vault.md](../../products-and-services/rewards-vaults/arv-active-rewards-vault.md "mention") page). Users can unwrap PRV for AUXO (subject to withdrawal limits), or exchange PRV using 3rd parties (if available).
 
 [^1]: 
