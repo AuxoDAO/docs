@@ -1,7 +1,7 @@
 # Redeeming PRV
 
 {% hint style="success" %}
-Mechanics are explained in [#withdrawal-mechanics](./#withdrawal-mechanics "mention")
+Mechanics are explained in [#redemption-mechanics](./#redemption-mechanics "mention")
 {% endhint %}
 
 A snapshot will be issued 24hs before the redemption window is open, in order to register those addresses holding unstaked PRV and their balances that will be allowed to redeem in the given epoch. If your address is in the snapshot, you'll be eligible to redeem your PRV balance.
