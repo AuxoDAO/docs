@@ -24,6 +24,10 @@ Each vault will distribute WETH, and the amount is given by different factors as
 >
 > Is a transferable asset that yields monthly rewards while being free from governance obligations. PRV requires users to be staked for an entire epoch to qualify for distribution. 30% of the Treasury Farming will be distributed monthly as rewards to all qualifying PRV. The ARV→PRV conversion is irreversible, but PRV can be withdrawn for AUXO (subject to budget availability and a fee).
 
+{% hint style="success" %}
+Rewards can be claimed as long as the address exists in any of the merkle trees, regardless if it has an active lock or not.
+{% endhint %}
+
 {% hint style="info" %}
 Looking for a comparison? Go to [arv-vs-prv.md](arv-vs-prv.md "mention")
 {% endhint %}
