@@ -15,7 +15,7 @@ description: This page compares the ARV and PRV Vaults for the AUXO protocol
 ### PRV **Target Profile**
 
 * DAO members with no interest in direct governance seeking a passive approach.
-* Participants who want the possibility of being able to exit their position earlier than ARV
+* Participants who are happy with either exiting via secondary markets or via the  [#redemption-mechanics](../../rewards-vaults/prv-passive-rewards-vault/#redemption-mechanics "mention") described below.
 * Users who are concerned about minimizing both the gas expenditures and effort required to maintain a fully maximized rewards position.
 
 ## Table of comparison

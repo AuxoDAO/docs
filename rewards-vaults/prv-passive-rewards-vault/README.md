@@ -11,7 +11,7 @@ PRV implements a `delayed withdrawal mechanism` to AUXO, PRV holders can burn th
 ## Who is PRV for?
 
 * DAO members with no interest in direct governance seeking a passive approach.
-* Participants who want the optionality of being able to exit their position at any time.
+* Participants who are happy with either exiting via secondary markets or via the  [#redemption-mechanics](./#redemption-mechanics "mention") described below.
 * Users who are concerned about minimising both the gas expenditures and effort required to maintain a fully maximised rewards position.
 
 ## Rewards in PRV <a href="#rewards-in-prv" id="rewards-in-prv"></a>
