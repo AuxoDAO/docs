@@ -107,6 +107,8 @@ Rewards will be distributed in WETH and will be claimable via a rewards contract
 
 ## Early exit to PRV
 
+{% embed url="https://youtu.be/oAWGHwNLuzg" %}
+
 PRV stands for The Passive Rewards Vault. ARV holders can, at any point, choose to convert their ARV to PRV via the _**Early Termination**_ mechanism.
 
 PRV is redeemable for Auxo, but subject to **redemption restrictions** based on the value of Auxo versus NAV (see the [prv-passive-rewards-vault](../../rewards-vaults/prv-passive-rewards-vault/ "mention") page for full details), on the other hand, PRV is **transferrable** and, as such, may offer other opportunities for exit.&#x20;

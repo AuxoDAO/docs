@@ -4,7 +4,9 @@ description: Walk-through of Auxo Governance
 
 # Governance
 
-Auxo is a decentralised and community governed protocol. All actions undertaken are directed by token holders through on-chain voting by [Active Reward Vault](../products-and-services/rewards-vaults/arv-active-rewards-vault.md) holders.
+{% embed url="https://youtu.be/WmUoECsOYaM" %}
+
+Auxo is a decentralised and community-governed protocol. All actions undertaken are directed by token holders through on-chain voting by [Active Reward Vault](../products-and-services/rewards-vaults/arv-active-rewards-vault.md) holders.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-04-04 at 17.42.27.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,3 +35,4 @@ Voting on-chain can be done directly via the smart contracts or with the help of
 {% hint style="info" %}
 The DAO proposals will be voted either in Snapshot or in Tally based on their nature (off-chain or on-chain)
 {% endhint %}
+

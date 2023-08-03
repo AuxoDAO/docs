@@ -4,7 +4,9 @@ description: Earn rewards without governance obligations
 
 # PRV (Passive Rewards Vault)
 
-The Passive Rewards Vault (PRV) offers the possibility to participate in the Auxo ecosystem outside of governance related matters. PRV is created by depositing AUXO into the vault at a 1:1 ratio and the vault token can be staked to earn rewards.
+{% embed url="https://youtu.be/ZEcbtK6sht4" %}
+
+The Passive Rewards Vault (PRV) offers the possibility to participate in the Auxo ecosystem outside of governance-related matters. PRV is created by depositing AUXO into the vault at a 1:1 ratio and the vault token can be staked to earn rewards.
 
 PRV implements a `delayed withdrawal mechanism` to AUXO, PRV holders can burn their token to get AUXO back — subject to the availability in the vault.
 
