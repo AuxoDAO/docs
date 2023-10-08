@@ -10,6 +10,7 @@
     * [The Notarization Process](governance/notarization/the-notarization-process.md)
     * [Checking your Eligibility](governance/notarization/checking-your-eligibility.md)
 * [$AUXO](usdauxo/README.md)
+  * [Treasury redemption](usdauxo/treasury-redemption.md)
   * [$AUXO Token Distribution](usdauxo/usdauxo-token-distribution.md)
   * [Protocol Owned Liquidity](usdauxo/protocol-owned-liquidity.md)
 * [Security](security/README.md)

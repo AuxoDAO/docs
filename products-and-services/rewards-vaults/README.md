@@ -6,7 +6,12 @@ description: >-
 
 # Rewards Vaults
 
+\
 Every month, the Auxo DAO distributes 100% of the yield resulting from its treasury farming operations to Auxo stakers.&#x20;
+
+{% hint style="warning" %}
+On Sep 6, 2023 the DAO has voted to dissolve and enable redemption of treasury assets. The DAO is no longer operating. Read more on [treasury-redemption.md](../../usdauxo/treasury-redemption.md "mention").
+{% endhint %}
 
 Users staking $AUXO have two options: The Auxo _Active Rewards Vault (ARV)_ or the Auxo _Passive Rewards Vaults (PRV)_ will be entitled to receive a portion of that yield as reward. As a Tl;dr:
 

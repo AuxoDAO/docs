@@ -4,8 +4,14 @@ description: Walk-through of Auxo Governance
 
 # Governance
 
+{% hint style="warning" %}
+On Sep 6, 2023 the DAO has voted to dissolve and enable redemption of treasury assets. The DAO is no longer operating. Read more on [treasury-redemption.md](../usdauxo/treasury-redemption.md "mention").
+{% endhint %}
+
 {% embed url="https://youtu.be/WmUoECsOYaM" %}
 
+\
+\
 Auxo is a decentralised and community-governed protocol. All actions undertaken are directed by token holders through on-chain voting by [Active Reward Vault](../products-and-services/rewards-vaults/arv-active-rewards-vault.md) holders.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-04-04 at 17.42.27.png" alt=""><figcaption></figcaption></figure>
